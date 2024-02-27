@@ -31,8 +31,8 @@ nltk.download('stopwords')
 
 ## Usage
 1. Clone this repository to your local machine.
-2. Download the dataset (`flipkart_data.csv`) provided in the link and place it in the project directory.
-3. Run the provided Python script (`flipkart_reviews_analysis.py`).
+2. Download the dataset and place it in the project directory.
+3. Run the provided Python script
 
 ## Preprocessing
 The preprocessing step involves cleaning the reviews by removing punctuations, converting text to lowercase, and removing stopwords using NLTK. This ensures that the text data is ready for analysis and model training.
