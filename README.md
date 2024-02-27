@@ -3,14 +3,14 @@
 This project aims to predict whether a review given on Flipkart is positive or negative using machine learning techniques. By analyzing user reviews and ratings, we can gain insights into product quality and provide recommendations for improvement.
 
 ## Table of Contents
-1. [Introduction]
-2. [Installation]
-3. [Usage]
-4. [Preprocessing]
-5. [Analysis]
-6. [Model Training]
-7. [Evaluation]
-8. [Conclusion]
+1. Introduction
+2. Installation
+3. Usage
+4. Preprocessing
+5. Analysis
+6. Model Training
+7. Evaluation
+8. Conclusion
 
 ## Introduction
 This project utilizes Python libraries such as Pandas, NLTK, Scikit-learn, Matplotlib, Seaborn, and Wordcloud for data preprocessing, analysis, and visualization. The main steps include importing the dataset, preprocessing the reviews, analyzing the data, converting text into vectors using TF-IDF, training a Decision Tree Classifier, and evaluating the model's performance.
