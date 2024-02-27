@@ -1,4 +1,4 @@
-# Flipkart Reviews Sentiment Analysis
+# Flipkart Reviews Sentiment Analysis Uisng Python
 
 This project aims to predict whether a review given on Flipkart is positive or negative using machine learning techniques. By analyzing user reviews and ratings, we can gain insights into product quality and provide recommendations for improvement.
 
