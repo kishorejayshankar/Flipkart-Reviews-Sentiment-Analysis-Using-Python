@@ -5,7 +5,7 @@ This project aims to predict whether a review given on Flipkart is positive or n
 ## Table of Contents
 1. [Introduction]
 2. [Installation]
-3. [Usage](#usage)
+3. [Usage]
 4. [Preprocessing]
 5. [Analysis]
 6. [Model Training]
